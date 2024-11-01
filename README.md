@@ -51,7 +51,7 @@ To enhance model performance, I used **RandomizedSearchCV** for hyperparameter t
    - Identified high-impact features for the predictive models.
 
 3. **Model Training and Evaluation**:
-   - Trained each model on the training set and evaluated on the test set using metrics such as RMSE, MAE, and R².
+   - Trained each model on the training set and evaluated on the test set using metrics such as RMSE
    - Compared model performances to determine the best-fit model for price prediction.
 
 4. **Hyperparameter Tuning**:
