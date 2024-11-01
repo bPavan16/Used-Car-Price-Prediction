@@ -61,15 +61,6 @@ To enhance model performance, I used **RandomizedSearchCV** for hyperparameter t
 
 This project helped me build a strong understanding of machine learning models, especially ensemble models like XGBoost, CatBoost, and LightGBM. I also gained insight into how tuning hyperparameters and selecting relevant features impact predictive accuracy.
 
-## Results
-
-- The **XGBoost** and **Random Forest** models delivered the most accurate results.
-- **ElasticNet Regression** was effective in handling multicollinearity and selecting important features.
-- Hyperparameter tuning with RandomizedSearchCV contributed significantly to model improvement.
-
-## Conclusion
-
-This project provided valuable hands-on experience with multiple machine learning techniques, especially in regression tasks. It enabled me to compare models effectively and gain insights into the factors influencing car prices.
 
 ## Installation and Setup
 
